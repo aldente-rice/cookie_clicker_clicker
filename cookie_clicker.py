@@ -34,5 +34,5 @@ while cookie_score < 10000:
     cookie_score += 1
 
 
-time.sleep(10)
+time.sleep(5)
 driver.quit()
